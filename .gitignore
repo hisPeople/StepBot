@@ -54,3 +54,7 @@ docs/_build/
 
 #osx crap
 .DS_STORE
+
+#intellij
+.idea/
+*.iml
