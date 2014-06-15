@@ -1,2 +1,2 @@
-#!/usr/bin/bash
-pip install -r requirements.pip
+#!/bin/bash
+sudo pip install -r requirements.pip
