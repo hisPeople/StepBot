@@ -1,4 +1,4 @@
-class NoseyTests:
+class TestTheThings:
 
     def always_failing_test(self):
         assert False
