@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-__author__ = 'devonmoss'
+__author__ = 'devonmoss' + 'asdfasdf'
 
 import fitbit
 import pprint
